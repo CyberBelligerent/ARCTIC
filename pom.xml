@@ -16,5 +16,6 @@
 		<module>Orca</module>
 		<module>Flock</module>
 		<module>Polarbear</module>
+		<module>Shard</module>
 	</modules>
 </project>

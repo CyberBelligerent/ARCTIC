@@ -10,3 +10,6 @@
 [submodule "Polarbear"]
 	path = Polarbear
 	url = https://github.com/CyberBelligerent/ARCTIC-Polarbear
+[submodule "Shard"]
+	path = Shard
+	url = https://github.com/CyberBelligerent/ARCTIC-Shard.git
