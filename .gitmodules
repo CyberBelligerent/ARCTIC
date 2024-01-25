@@ -1,0 +1,12 @@
+[submodule "Flock"]
+	path = Flock
+	url = https://github.com/CyberBelligerent/ARCTIC-Flock
+[submodule "Iceberg"]
+	path = Iceberg
+	url = https://github.com/CyberBelligerent/ARCTIC-Iceberg
+[submodule "Orca"]
+	path = Orca
+	url = https://github.com/CyberBelligerent/ARCTIC-Orca
+[submodule "Polarbear"]
+	path = Polarbear
+	url = https://github.com/CyberBelligerent/ARCTIC-Polarbear
